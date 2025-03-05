@@ -1,0 +1,9 @@
+{
+	"name": "DFJYO098",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8b2514da-b146-410e-a975-ac6410e3fdc2",
+		"tenantId": "2800c0a0-70e9-49be-8733-faeaa6aced99"
+	}
+}
